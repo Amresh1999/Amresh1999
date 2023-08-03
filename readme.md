@@ -1,4 +1,4 @@
-![logo](https://github.com/Amresh1999/Amresh1999/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.mp4)
+![logo]([https://github.com/Amresh1999/Amresh1999/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.mp4](https://github.com/Amresh1999/Amresh1999/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png))
 <h1 align="center">Hi 👋, I'm Amresh Asis Tripathy</h1>
 <h3 align="center">An enthusiastic front-end developer hailing from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
